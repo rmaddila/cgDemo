@@ -1,0 +1,52 @@
+[
+  {
+    "accountNumber": 1001,
+    "accountName": "McDonland USA LLC",
+    "contactName": "Richard Jack",
+    "contactEmail": "richard@abcMac.com",
+    "contactPhoneNumber": "192-282-1823"
+  },
+  {
+    "accountNumber": 1002,
+    "accountName": "Chipotle USA LLC",
+    "contactName": "Adam Jonesr",
+    "contactEmail": "Adman@chipotle.com",
+    "contactPhoneNumber": "202-282-2912"
+  },
+  {
+    "accountNumber": 1003,
+    "accountName": "WalMart USA LLC",
+    "contactName": "Mike Penne",
+    "contactEmail": "MickP@walmart.com",
+    "contactPhoneNumber": "292-121-1212"
+  },
+  {
+    "accountNumber": 1004,
+    "accountName": "WalGreen USA LLC",
+    "contactName": "Scott Jane",
+    "contactEmail": "sJane@walgreen.com",
+    "contactPhoneNumber": "192-282-1823"
+  },
+  {
+    "accountNumber": 1005,
+    "accountName": "CVS USA LLC",
+    "contactName": "Lisa Hertz",
+    "contactEmail": "lHertx@cvs.com",
+    "contactPhoneNumber": "555-282-1823"
+  },
+  {
+    "accountNumber": 1006,
+    "accountName": "Papa Johns USA LLC",
+    "contactName": "John Lee",
+    "contactEmail": "jlee@papa.com",
+    "contactPhoneNumber": "341-282-1823"
+  },
+  {
+    "accountNumber": 1007,
+    "accountName": "StarBucks USA LLC",
+    "contactName": "Linda Jane",
+    "contactEmail": "janel@start.com",
+    "contactPhoneNumber": "343-282-1823"
+  }
+
+]
